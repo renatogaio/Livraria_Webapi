@@ -1,0 +1,9 @@
+D:\GitHub\Livraria_WebApi\Livraria.Aplicacao\bin\Debug\netstandard2.0\Livraria.Aplicacao.deps.json
+D:\GitHub\Livraria_WebApi\Livraria.Aplicacao\bin\Debug\netstandard2.0\Livraria.Aplicacao.dll
+D:\GitHub\Livraria_WebApi\Livraria.Aplicacao\bin\Debug\netstandard2.0\Livraria.Dominio.dll
+D:\GitHub\Livraria_WebApi\Livraria.Aplicacao\bin\Debug\netstandard2.0\Livraria.Dominio.pdb
+D:\GitHub\Livraria_WebApi\Livraria.Aplicacao\obj\Debug\netstandard2.0\Livraria.Aplicacao.csprojAssemblyReference.cache
+D:\GitHub\Livraria_WebApi\Livraria.Aplicacao\obj\Debug\netstandard2.0\Livraria.Aplicacao.csproj.CoreCompileInputs.cache
+D:\GitHub\Livraria_WebApi\Livraria.Aplicacao\obj\Debug\netstandard2.0\Livraria.Aplicacao.AssemblyInfoInputs.cache
+D:\GitHub\Livraria_WebApi\Livraria.Aplicacao\obj\Debug\netstandard2.0\Livraria.Aplicacao.AssemblyInfo.cs
+D:\GitHub\Livraria_WebApi\Livraria.Aplicacao\obj\Debug\netstandard2.0\Livraria.Aplicacao.csproj.CopyComplete

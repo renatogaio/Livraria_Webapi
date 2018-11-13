@@ -1,0 +1,9 @@
+D:\GitHub\Livraria_WebApi\SqlServer\bin\Debug\netstandard2.0\Livraria.Infra.Data.deps.json
+D:\GitHub\Livraria_WebApi\SqlServer\bin\Debug\netstandard2.0\Livraria.Infra.Data.dll
+D:\GitHub\Livraria_WebApi\SqlServer\bin\Debug\netstandard2.0\Livraria.Dominio.dll
+D:\GitHub\Livraria_WebApi\SqlServer\bin\Debug\netstandard2.0\Livraria.Dominio.pdb
+D:\GitHub\Livraria_WebApi\SqlServer\obj\Debug\netstandard2.0\Livraria.Infra.Data.csprojAssemblyReference.cache
+D:\GitHub\Livraria_WebApi\SqlServer\obj\Debug\netstandard2.0\Livraria.Infra.Data.csproj.CoreCompileInputs.cache
+D:\GitHub\Livraria_WebApi\SqlServer\obj\Debug\netstandard2.0\Livraria.Infra.Data.AssemblyInfoInputs.cache
+D:\GitHub\Livraria_WebApi\SqlServer\obj\Debug\netstandard2.0\Livraria.Infra.Data.AssemblyInfo.cs
+D:\GitHub\Livraria_WebApi\SqlServer\obj\Debug\netstandard2.0\Livraria.Infra.Data.csproj.CopyComplete
